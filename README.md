@@ -17,3 +17,5 @@
 ## 2. Preprocessing
 <p>Scaling the training images into the sizes of 6000 × 6000, 2560 × 2560, 1792 × 1792, 1024 × 1024</p>
 <p>After the scale task, splitting the scaled images into the small patches size of 256 × 256 </p>
+
+## 3. 

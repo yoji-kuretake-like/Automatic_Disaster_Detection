@@ -14,3 +14,6 @@
 <p>Training and Validation Data - ISPRS Potsdom dataset(Dataset consists of 36 images and each image size is 6000 × 6000) </p>
 <p>Disaster Image Data - DigitalGlobe's Open data platform (The image is taken in Indonesia and the disaster types are Earthquake and Tsunami) </p>
 
+## 2. Preprocessing
+<p>Scaling the training images into the sizes of 6000 × 6000, 2560 × 2560, 1792 × 1792, 1024 × 1024</p>
+<p>After the scale task, splitting the scaled images into the small patches size of 256 × 256 </p>

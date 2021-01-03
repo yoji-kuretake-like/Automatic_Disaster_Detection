@@ -20,6 +20,6 @@
 
 ## 3. Proposed Method
 <p>The overview of proposed method is as follows:</p>
-<img width="500" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/flow_of_method.png">
+<img width="1000" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/flow_of_method2.png">
 
 

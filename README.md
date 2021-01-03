@@ -9,3 +9,5 @@ The aim of this project is to detect the affected area by natural disasters by u
 4. Build U-Net Model
 5. Change Detection Method
 6. Result
+
+## 1. Dataset

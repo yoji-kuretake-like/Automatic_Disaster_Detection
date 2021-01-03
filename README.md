@@ -14,3 +14,4 @@
 
 ## 1. Dataset
 Training and Validation data: ISPRS Potsdom dataset 
+Disaster Image Dataset: DigitalGlobe's Open data platform

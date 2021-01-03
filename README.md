@@ -19,7 +19,8 @@
 <p>After the scale task, splitting the scaled images into the small patches size of 256 × 256 </p>
 
 ## 3. Proposed Method
-<p>The overview of proposed method is as follows:</p>
+<p>The flow of proposed method is as follows:</p>
 <img width="1000" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/flow_of_method2.png">
+<p> After the preprocessing task was carried out, the segmentation model was trained using the preprocessed images. Then, the trained model was applied to the pre and post disaster images in order to classify all pixels into 6 classes(Impervious road, Buildings, Low vegetation, Trees, cars, Clutter). Finally, the segmented output images from the trained model were assesed with the 
 
 

@@ -9,6 +9,7 @@
 4. Build U-Net Model
 5. Change Detection Method
 6. Result
+7. Conclusion
 
 ## 1. Dataset
 <p>Training and Validation Data - ISPRS Potsdom dataset(Dataset consists of 36 images and each image size is 6000 × 6000) </p>
@@ -47,3 +48,6 @@
 <p>The quantitative result is shown as follows:</p>
 <img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_table.png">
 
+
+## 6. Conclusion
+<p>In this project, the approach was presented to identify the damaged area caused by large scale disasters, such as an earthquake and tsunami. To detect such impacted zones from the aerial imagery, the semantic segmentation is performed to all pixels in the pre and post disaster images and the changes occurred before and after the disasters are monitored by comparing those two mapped images. For this approach, the U-Net based model, which is the most major semantic segmentation network, was applied to classify every pixel into either the impervious surfaces, buildings, low vegetation, trees, cars and clutter classes from pre and post disaster images. Furthermore, when training the U-Net based model, the resolution between training and disaster images differed, hence, the models were trained at different scales of training image resolution. After that process, the pixel-based change detection method using a sliding window was implemented to the two predicted mask images in order to extract the impacted zones as a final result. The results indicated that most of the proposed methods performed the semantic segmentation task well for all classes, besides the clutter class, to the test data of the ISPRS Potsdam dataset. The F1 score for each class were also relatively high. On the other hand, although the method 2 accomplished the highest F1 score of 55% in the damaged class among all methods, it would be considered that this performance could not be enough to apply this model to the real-time disaster assessment task. However, this study demonstrated that the proposed method to combine the different scale images with the training images would be effective for the different resolution unseen images in the semantic segmentation task.</p>

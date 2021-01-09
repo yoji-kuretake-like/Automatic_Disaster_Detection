@@ -37,3 +37,4 @@
 <p>In this project, the threshold and window size are set as 0.7 and 64×64 pixels respectively for the models to avoid recognizing the few changes that occurred due to the time series as the impacted area. The window is slid over the segmentation masks both of pre and post disaster images, and if the area within the window satisfies the above formula, it is labelled as the damaged zone by disasters.</p>
 
 ## 6. Result
+<p>The result which trained models applied to pre and post disaster images are shown as follows:</p>

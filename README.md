@@ -36,3 +36,4 @@
 <img width="750" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/equation.png">
 <p>In this project, the threshold and window size are set as 0.7 and 64×64 pixels respectively for the models to avoid recognizing the few changes that occurred due to the time series as the impacted area. The window is slid over the segmentation masks both of pre and post disaster images, and if the area within the window satisfies the above formula, it is labelled as the damaged zone by disasters.</p>
 
+## 6. Result

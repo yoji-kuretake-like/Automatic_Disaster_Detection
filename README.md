@@ -32,8 +32,6 @@
 <img width="900" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/model_archi.png">
 
 ## 5. Change Detection Method
-
-
-
-
+<p>After the predicted segmentation masks of pre and post disaster images were created by the trained semantic segmentation model, the impacted regions are extracted to compare these two images by using the pixel-based change detection method with a sliding window. The areas that satisfy below equation can be considered as the damaged area by disasters.</p>
+<img width="800" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/model_archi.png">
 

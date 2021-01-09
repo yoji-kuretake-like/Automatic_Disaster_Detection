@@ -38,5 +38,6 @@
 
 ## 6. Result
 <p>The results which trained models applied to pre and post disaster images are shown as follows:</p>
-<img width="750" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_pre.png">
-
+<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_pre.png">
+<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_post.png">
+<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/legend.png">

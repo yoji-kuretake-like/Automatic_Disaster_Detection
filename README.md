@@ -29,7 +29,9 @@
 
 ## 3. Build U-Net Model
 <p>Model architecture used in this project is as follows:</p>
- 
+<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/model_archi.png">
+
+
 
 
 

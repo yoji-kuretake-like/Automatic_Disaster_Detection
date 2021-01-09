@@ -38,9 +38,12 @@
 
 ## 6. Result
 <p>The results which trained models applied to pre and post disaster images are shown as follows:</p>
-<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_pre.png">
-<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_post.png">
-<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/legend.png">
+<img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_pre.png">
+<img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_post.png">
+<img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/legend.png">
 
 <p>The final results which was applied by change detection method are shown as follows:</p>
-<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/final_result.png">
+<img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/final_result.png">
+<p>The quantitative result is shown as follows:</p>
+<img width="650" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/result_table.png">
+

@@ -23,6 +23,6 @@
 <img width="1000" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/flow_of_method2.png">
 <p> After the preprocessing task was carried out, the segmentation model was trained using the preprocessed images. Then, the trained model was applied to the pre and post disaster images in order to classify all pixels into 6 classes(Impervious road, Buildings, Low vegetation, Trees, cars, Clutter). Finally, the segmented output images from the trained model were assesed with the change detection method to create the final output.</p>
 
-<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/train_way2.png">
+<img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/method.png">
 
 

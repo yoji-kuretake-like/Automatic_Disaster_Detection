@@ -27,5 +27,9 @@
 <img width="700" src="https://github.com/yoji-kuretake-like/Automatic_Disaster_Detection/blob/main/images/method.png">
 <p>In this project, four types of methods were used for training models, then comparing each model performance of disaster ditection task and choosing the best model.</p>
 
+## 3. Build U-Net Model
+<p>Model architecture used in this project is as follows:</p>
+ 
+
 
 
